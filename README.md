@@ -9,3 +9,6 @@
    https://github.com/asmitmans/Desafio5_M4_U1/blob/main/src/MultiplosDeTres.java <br>
 
 
+Nota: En el ejercicio 4 se muestra el resultado del promedio sin decimales, por lo que se<br>
+produce redondeo.
+
